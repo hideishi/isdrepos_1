@@ -12,7 +12,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author hide
+ * @author 石原
  *
  */
 public class LogTrace {
